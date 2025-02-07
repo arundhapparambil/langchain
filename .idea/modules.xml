@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<project version="4">
-  <component name="ProjectModuleManager">
-    <modules>
-      <module fileurl="file://$PROJECT_DIR$/../icebreaker/.idea/icebreaker.iml" filepath="$PROJECT_DIR$/../icebreaker/.idea/icebreaker.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/learn-lang-chain.iml" filepath="$PROJECT_DIR$/.idea/learn-lang-chain.iml" />
-    </modules>
-  </component>
-</project>
